@@ -1,4 +1,7 @@
 /*     General overwrite     */
+html{
+  scroll-behavior: smooth;
+}
 body {
   font-size: 25px;
   font-family: 'Montserrat', "Helvetica", Arial, sans-serif;
@@ -652,10 +655,11 @@ body {
   border: 0 !important;
 }
 
-/*    media queries    */
+/*    Pingpong p   */
 
-
-
+.text{
+  margin-top:-100px;
+}
 
 
 
